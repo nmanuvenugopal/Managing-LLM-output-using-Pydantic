@@ -15,3 +15,6 @@ filter tweets containing political references or offensive language, ensuring st
 ### Output
 ![image](https://github.com/user-attachments/assets/c8eef7a5-44ef-4bef-ae31-4eb0bcee5cd4)
 
+### Reference
+Controlling Large Language Model output with Pydantic - Matt Chinnock (Medium article)
+
